@@ -1,6 +1,6 @@
 FrontEND 
 -------------------------------------------
-1.node version 14.17.3
+1.node version 16.10.3
 2.install angularCLI as 6.0.8
 3.Cd to angular file
 4.npm install
@@ -9,7 +9,7 @@ FrontEND
 STS
 --------------------------------------------
 
-1. Java JRE should be 14 version
+1. Java should be 8 version
 2. application properities - need to change DB credentials 
 
 DB
